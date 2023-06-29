@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-✨ A passionate Ruby on Rails developer and web development enthusiast. Recently, I completed an intensive bootcamp where I honed my skills in Ruby on Rails, HTML, CSS, and JavaScript. With a solid background in software development, including expertise in C#, JavaScript, SharePoint, and other Microsoft technologies, I bring a wealth of experience as an IT consultant and software engineer. I am thrilled to embark on my journey as a web developer, leveraging my knowledge to build exciting and user-centric web applications.
+✨ A passionate Ruby on Rails developer and web development enthusiast. Recently, I completed an intensive bootcamp where I honed my skills in <b> Ruby on Rails, HTML, CSS, </b> and <b> JavaScript </b>. With a solid background in software development, including expertise in C#, JavaScript, SharePoint, and other Microsoft technologies, I bring a wealth of experience as an IT consultant and software engineer. I am thrilled to embark on my journey as a web developer, leveraging my knowledge to build exciting and user-centric web applications.
 
 - 🔭 I am actively seeking employment opportunities as a <b>Full Stack Developer || Backend Developer || Frontend Developer</b>
 - 🌱 I’m currently learning <strong>ReactJS</strong>
