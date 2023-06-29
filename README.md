@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am actively seeking employment opportunities as a <b>Full Stack Developer || Backend Developer || Frontend Developer</b>
 - 🌱 I’m currently learning <strong>ReactJS</strong>
-- 👨‍💻 All of my projects are available at [portfolioLink](portfolioLink)
+- 👨‍💻 All of my projects are available at [portfolioLink](https://troopl.com/divyalearner)
 - 📄 Know about my experiences [resumeLink](resumeLink)
 
 
