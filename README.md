@@ -5,14 +5,15 @@
 
 Here are some ideas to get you started:
 
-- 📄 Know about my experiences [resumeLink](resumeLink)
+
 -->
 ✨ A passionate Ruby on Rails developer and web development enthusiast. Recently, I completed an intensive bootcamp where I honed my skills in <b> Ruby on Rails, HTML, CSS, </b> and <b> JavaScript </b>. With a solid background in software development, including expertise in C#, JavaScript, SharePoint, and other Microsoft technologies, I bring a wealth of experience as an IT consultant and software engineer. I am thrilled to embark on my journey as a web developer, leveraging my knowledge to build exciting and user-centric web applications.
 
 - 🔭 I am actively seeking employment opportunities as a <b>Full Stack Developer || Backend Developer || Frontend Developer</b>
 - 🌱 I’m currently learning <strong>ReactJS</strong>
 - 👨‍💻 All of my projects are available at [portfolioLink](https://troopl.com/divyalearner)
-
+- 📄 Know about my experiences [resumeLink](resumeLink)
+  
 <h4 align="left">📫<b> Connect with me:</b></h4>
 <p align="left">
 <a href="https://linkedin.com/in/divyasavai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyasavai" height="30" width="40" /></a>
